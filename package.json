@@ -1,8 +1,8 @@
 {
-  "name": "project-name",
+  "name": "netflix-clone",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Amir Hossein Karimi",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
